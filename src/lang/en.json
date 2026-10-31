@@ -1,0 +1,5 @@
+{
+  "Prefix": "{green}[ResetScore]{default}",
+  "ResetScore": "{lime}Your score has been reset!",
+  "AlreadyReset": "{red}Your score is already 0!"
+}
